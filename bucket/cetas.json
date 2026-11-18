@@ -1,12 +1,12 @@
 {
-  "version": "0.11.5",
+  "version": "0.11.7",
   "description": "Native Cetas terminal AI agent",
   "homepage": "https://github.com/colmugx/cetas",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/colmugx/cetas/releases/download/cetas-v0.11.5/cetas-windows-x64.zip",
-      "hash": "cc049b603d0259131f574445f9eb540ed58d5d327904f4c127b9be5caddf908b"
+      "url": "https://github.com/colmugx/cetas/releases/download/cetas-v0.11.7/cetas-windows-x64.zip",
+      "hash": "d6f0f16a453a753503fd1d073f02e81bd3ca1279e36d9c8adf2a84203d41c78e"
     }
   },
   "bin": [
